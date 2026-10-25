@@ -82,5 +82,35 @@
         "date": "2026-10-25",
         "start_time": "23:59",
         "subject": "Submissions for figments Issue 22 close tomorrow at midnight!"
+    },
+    {
+        "club_name": "Federalist Society",
+        "date": "2026-10-28",
+        "start_time": "16:45",
+        "subject": "From Princeton to Politics to Prison to Supreme Court Victory: The Story of United States v. Sittenfeld '07"
+    },
+    {
+        "club_name": "PRINCETON PRE-LAW SOCIETY",
+        "date": "2026-10-26",
+        "start_time": "16:30",
+        "subject": "[TOMORROW] NYU LAW SCHOOL VISIT"
+    },
+    {
+        "club_name": "Tiger Investments",
+        "date": "2026-10-27",
+        "start_time": "17:15",
+        "subject": "Renovus Capital Partners Private Equity Recruiting Session"
+    },
+    {
+        "club_name": "Psychedelics Club",
+        "date": "2026-10-29",
+        "start_time": "17:0",
+        "subject": "Psychedelic Therapy Lecture w/ Denise Rue, NJPTA Founder (10/29)"
+    },
+    {
+        "club_name": "NASS WEEKLY",
+        "date": "2026-10-28",
+        "start_time": "17:0",
+        "subject": "Nass Poetry Workshop 10/28 ~ The Fragment!!"
     }
 ]
