@@ -616,5 +616,185 @@
         "date": "2026-10-26",
         "start_time": "15:0",
         "subject": "Meet the Princeton Alum Who's Backed 400+ Startups (+ Free Chipotle!)"
+    },
+    {
+        "club_name": "Princeton College Democrats",
+        "date": "2026-10-31",
+        "start_time": "11:0",
+        "subject": "[RSVP] FINAL CANVASSING THIS WEEKEND"
+    },
+    {
+        "club_name": "PSEC x ODUS",
+        "date": "2026-10-29",
+        "start_time": "22:0",
+        "subject": "Celebrate Princetoween this Thursday (Nomad, Taco Bell, Tarot Readings, Airpods Raffle, Coffee Club and more!)"
+    },
+    {
+        "club_name": "J-Lats",
+        "date": "2026-10-30",
+        "start_time": "18:30",
+        "subject": "J-Lats Shabbat @ The CJL This Friday!"
+    },
+    {
+        "club_name": "Society of Women Engineers",
+        "date": "2026-11-21",
+        "start_time": "10:0",
+        "subject": "VOLUNTEER for Society of Women Engineers' High School Engineering Colloquium!"
+    },
+    {
+        "club_name": "UPO",
+        "date": "2026-10-30",
+        "start_time": "15:30",
+        "subject": "[Date change to THIS FRIDAY] Autumn leaves are falling down and... \ud83d\udcf8 UPO FALL PHOTOWALK is happening!"
+    },
+    {
+        "club_name": "Ghanaian Students Association",
+        "date": "2026-10-28",
+        "start_time": "17:30",
+        "subject": "[RIGHT NOW] TWI TABLES"
+    },
+    {
+        "club_name": "\"Rise Up (Folk Music)\"",
+        "date": "2026-11-4",
+        "start_time": "21:0",
+        "subject": "9PM TONIGHT: Sing, play, and jam with Rise Up! Murray-Dodge Caf\u00e9"
+    },
+    {
+        "club_name": "Princeton Financial Literacy",
+        "date": "2026-10-28",
+        "start_time": "16:30",
+        "subject": "Free Food, Raffle Entry, & Real Answers: Building Wealth through Savings and Investing (TODAY @4:30pm)"
+    },
+    {
+        "club_name": "USG DEI Committee",
+        "date": "2026-10-28",
+        "start_time": "18:0",
+        "subject": "[IN 2 HOURS!] National Immigrants Day Community Dinner"
+    },
+    {
+        "club_name": "THE 25TH HOUR",
+        "date": "2026-11-1",
+        "start_time": "2:0",
+        "subject": "[FREE TIME] What don't you have enough time for?"
+    },
+    {
+        "club_name": "Princeton College Democrats",
+        "date": "2026-11-3",
+        "start_time": "11:0",
+        "subject": "Canvass With Yale College Dems!"
+    },
+    {
+        "club_name": "Princeton Federalist Society",
+        "date": "2026-10-28",
+        "start_time": "16:45",
+        "subject": "SOON: Sittenfeld's Journey from Princeton to Politics to Prison to Supreme Court Victory (+ Chick-fil-A)"
+    },
+    {
+        "club_name": "Theatre Intime",
+        "date": "2026-10-30",
+        "start_time": "20:0",
+        "subject": "Experience the ROCKY HORROR SHADOWCAST"
+    },
+    {
+        "club_name": "Princeton Blood Drive",
+        "date": "2026-11-5",
+        "start_time": "8:0",
+        "subject": "DONATE BLOOD NEXT WEEK"
+    },
+    {
+        "club_name": "Morgan Hoang",
+        "date": "2026-10-28",
+        "start_time": "18:0",
+        "subject": "[TONIGHT!] National Immigrants Day Community Dinner"
+    },
+    {
+        "club_name": "Anime-Manga Princeton",
+        "date": "2026-10-29",
+        "start_time": "17:0",
+        "subject": "[AMPU] Upcoming Events!!! (Cooking Event!?)"
+    },
+    {
+        "club_name": "Princeton Pilots Club",
+        "date": "2026-11-5",
+        "start_time": "17:0",
+        "subject": "Want to be a Pilot?"
+    },
+    {
+        "club_name": "The PDAC Board",
+        "date": "2026-11-15",
+        "start_time": "13:0",
+        "subject": "LAST CHANCE: Volunteer for the Princeton Disability Awareness Carnival \ud83c\udfaa!!"
+    },
+    {
+        "club_name": "Chinese Language Association",
+        "date": "2026-10-29",
+        "start_time": "20:0",
+        "subject": "\ud83c\udc04 CLA MAHJONG NIGHT \ud83c\udc04"
+    },
+    {
+        "club_name": "Alejandra Ramos",
+        "date": "2026-10-28",
+        "start_time": "11:0",
+        "subject": "[$5 Vouchers + Important Information] Farmers' Market Today!"
+    },
+    {
+        "club_name": "Isaac Bernstein",
+        "date": "2026-10-30",
+        "start_time": "16:30",
+        "subject": "Princeton Pickleball"
+    },
+    {
+        "club_name": "OA Climbing Wall",
+        "date": "2026-10-28",
+        "start_time": "16:30",
+        "subject": "Climbing 101 and Walloween!"
+    },
+    {
+        "club_name": "NSBE",
+        "date": "2026-10-28",
+        "start_time": "17:0",
+        "subject": "Visa Campus Visit \u2013 Internship & Full-Time Opportunities (10/28\u201310/29)"
+    },
+    {
+        "club_name": "PCMC",
+        "date": "2026-11-7",
+        "start_time": "14:0",
+        "subject": "[BIG LAW NETWORKING] Volunteer at the Garden State Regional!"
+    },
+    {
+        "club_name": "Princeton Girls Into VC",
+        "date": "2026-11-4",
+        "start_time": "16:30",
+        "subject": "Bessemer Venture Partners Investors Coming to Princeton"
+    },
+    {
+        "club_name": "Kelton Chastulik",
+        "date": "2026-10-28",
+        "start_time": "23:59",
+        "subject": "[deadline soon!] Apply for a Pace Center Board!"
+    },
+    {
+        "club_name": "Forbes Garden Project",
+        "date": "2026-10-30",
+        "start_time": "16:0",
+        "subject": "Forbes Garden Fall Fest"
+    },
+    {
+        "club_name": "Engineering Council",
+        "date": "2026-10-29",
+        "start_time": "20:0",
+        "subject": "Halloween Study Break Tomorrow with House of Cupcakes!"
+    },
+    {
+        "club_name": "ORL",
+        "date": "2026-10-29",
+        "start_time": "15:0",
+        "subject": "10/29 at 3PM Unwind on the Go- Meet the new ORL Chapel Interns"
+    },
+    {
+        "club_name": "Nassau Literary Review",
+        "date": "2026-11-7",
+        "start_time": "23:59",
+        "subject": "SUBMIT TO NASSLIT BY 11/7!!!"
     }
 ]
